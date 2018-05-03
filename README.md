@@ -2,6 +2,7 @@
 Software Design Project
 
 Description: 
+
 In this assignment we will come up with initial design for the program. 
 We will not be writing any code in this assignment, but only looking at some initial design ideas.
 
